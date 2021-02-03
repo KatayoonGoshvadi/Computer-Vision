@@ -1,5 +1,4 @@
 # Computer-Vision-
-CV Course
 
 Project1: Spatial Pyramid Matching for Scene Classification (Using bag-of-words (BoW) approach for scene classification)
 
